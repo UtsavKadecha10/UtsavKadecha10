@@ -20,5 +20,6 @@
   <a href="https://github.com/UtsavKadecha10"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/utsav-kadecha-a17607224"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://twitter.com/KadechaUtsav"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/_theguitarbuff_/"><img src="https://img.icons8.com/bubbles/50/instagram-new--v2.png" alt="Twitter"/></a>
 </p>
 
