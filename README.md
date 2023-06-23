@@ -13,3 +13,12 @@
 
 - 🗣 Pronouns: He/Him
 
+<h3 align="center">Let's Connect 👥</h3>
+<p align="center">
+  <a href="https://utsavkadecha10.github.io/Portfolio_Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="mailto:ut.kadecha@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/UtsavKadecha10"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/utsav-kadecha-a17607224"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/KadechaUtsav"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
+</p>
+
