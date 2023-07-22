@@ -7,7 +7,7 @@
 
 - 💪 Just built my own Portfolio Website, Check it out! https://utsavkadecha10.github.io/Portfolio_Website/
 
-- 💻 I'm currently working on building a Music player website!
+- 💻 I'm currently working on building a Authentication Web App!
 
 - 💬 Ask me about : 📄WebDev, 🎸Acoustic guitar, 💻computers 😅
 
